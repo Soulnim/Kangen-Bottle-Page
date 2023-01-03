@@ -1,2 +1,11 @@
 A web project associated with my CSC253 final project's course.
-#hello
+## Progress
+---------------------------------------------------------------
+3/1/2023 - Identify elements that need to be include
+
+1. Header (Navbar)
+2. Introduction (what is the product about?)
+3. Functionality (3-4 sections)
+4. Contacts and Social
+
+----------------------------------------------------------------
