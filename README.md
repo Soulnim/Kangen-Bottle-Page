@@ -12,3 +12,4 @@ A web project associated with my CSC253 final project's course.
 3/1/2023 (11.23 pm) - Building website layout
 
 ![alt text](https://github.com/Soulnim/Kangen-Bottle-Page/blob/main/photo1672759325.jpeg)
+---------------------------------------------------------------
