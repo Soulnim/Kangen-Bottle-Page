@@ -9,3 +9,4 @@ A web project associated with my CSC253 final project's course.
 4. Contacts and Social
 
 ----------------------------------------------------------------
+3/1/2023 (11.23 pm) - Building website layout
