@@ -52,19 +52,20 @@ header {
 }
 
 #div-one {
- padding-top: 75px;
+ padding-top: 20px;
 }
 
 #main {
- height: 550px;
+ height: 650px;
  text-align: center;
+ background-color: rgb(144, 166, 191);
 }
 
 #main-text {
  position: relative;
  font-size: 80px;
- top: 28%;
- color: white;
+ top: 34%;
+ color: #1a3b53;
  font-family: sans-serif;
 }
 
@@ -129,8 +130,11 @@ a {
 
 #contacts {
  height: 400px;
- color: white;
+ color: #1a3b53;
+ background-color: rgb(144, 166, 191);
  text-align: center;
+ padding-top: 1px;
+ padding-bottom: 80px;
 }
 
 #contacts-title {
