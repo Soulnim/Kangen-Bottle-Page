@@ -1,1 +1,93 @@
+body {
+ background-color: #1a3b53;
+ margin: 0;
+}
 
+header {
+ color: white;
+ text-align: center;
+ height: 80px;
+ position: fixed;
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ background-color: #1a3b53;
+ z-index: 9;
+}
+
+.nav {
+ display: inline;
+ margin-left: 20px;
+ margin-right: 20px;
+ font-size: 20px;
+ position:relative;
+ top: 24px;
+ font-family: monospace;
+}
+
+#first-hr {
+ width: 90%;
+ background-color: aliceblue;
+}
+
+#about {
+ text-align: center;
+}
+
+#about-title {
+ color: white;
+ font-family: monospace;
+ font-size: 40px;
+}
+
+#about-text {
+ color: white;
+ font-family: monospace;
+ padding: 20px;
+ font-size: 20px;
+}
+
+#div-one {
+ padding-top: 75px;
+}
+
+#main {
+ height: 550px;
+ text-align: center;
+}
+
+#main-text {
+ position: relative;
+ font-size: 80px;
+ top: 28%;
+ color: white;
+ font-family: sans-serif;
+}
+
+#second-hr {
+ width: 90%;
+ background-color: aliceblue;
+}
+
+#third-hr {
+ width: 90%;
+ background-color: aliceblue;
+}
+
+#features-title {
+ text-align: center;
+ color: white;
+ font-family: monospace;
+ font-size: 40px;
+}
+
+#features-grid {
+ display: grid;
+ grid-template-columns: 50% 50%;
+ grid-template-rows: 50% 50%;
+ text-align: center;
+}
+
+.grid {
+ height: 200px;
+}
