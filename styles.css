@@ -1,3 +1,7 @@
+html {
+ scroll-behavior: smooth;
+}
+
 body {
  background-color: #1a3b53;
  margin: 0;
@@ -78,7 +82,7 @@ header {
  text-align: center;
  color: white;
  font-family: monospace;
- font-size: 40px;
+ font-size: 50px;
 }
 
 #features-grid {
@@ -86,8 +90,39 @@ header {
  grid-template-columns: 50% 50%;
  grid-template-rows: 50% 50%;
  text-align: center;
+ padding-bottom: 30px;
 }
 
 .grid {
  height: 200px;
+}
+
+.features-img {
+ width: 60%;
+ padding: 0;
+ margin: 0;
+}
+
+.features-text {
+ color: white;
+ font-family: monospace;
+ font-size: 22px;
+}
+
+.fourth-hr {
+ width: 90%;
+ background-color: aliceblue;
+}
+
+.feat {
+ text-align: center;
+ height: 600px;
+ color: white;
+ font-family: monospace;
+ font-size: 20px;
+}
+
+a {
+ color: white;
+ text-decoration: none;
 }
