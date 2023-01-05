@@ -1,4 +1,5 @@
 A web project associated with my CSC253 final project's course.
+Website's link : https://soulnim.github.io/kangenbottle.github.io/
 ## Progress
 ---------------------------------------------------------------
 3/1/2023 - Identify elements that need to be include
