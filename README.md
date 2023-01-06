@@ -14,3 +14,11 @@ Website's link : https://soulnim.github.io/kangenbottle.github.io/
 
 ![alt text](https://github.com/Soulnim/Kangen-Bottle-Page/blob/main/photo1672759325.jpeg)
 ---------------------------------------------------------------
+5/1/2023 () - Start building website (HTML/CSS)
+
+Completed.
+----------------------------------------------------------------
+6/1/2023 (10.42 am) - Make it responsive
+
+In progress...
+----------------------------------------------------------------
